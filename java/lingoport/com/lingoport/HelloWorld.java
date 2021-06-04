@@ -30,5 +30,7 @@ public class HelloWorld {
 		Logger logger = Logger.getLogger("Logger");
 		String logMessage = "Logging message - Don't translate me.";
 		logger.log(Level.INFO, logMessage);
+		
+		String test1 = "This change added to the file on 2021-06-04 to test Jenkins."
 	}
 }
