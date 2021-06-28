@@ -16,7 +16,7 @@ namespace HelloWorld
         CharSet charset = CharSet.Auto;
         CaseInsensitiveComparer comparer = new CaseInsensitiveComparer();
         String lowercase = "U.S Capitals".ToLower();
-        String test = "This was added on 06-14 to test Jenkins.";
+        String test = "This was added on 06-28 to test Jenkins.";
 
         public void doSomething()
         {
