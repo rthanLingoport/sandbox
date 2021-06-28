@@ -1,0 +1,12 @@
+--- !OWNERS
+version: 2
+file_matchers:
+  tools_matcher:
+    jira_project: TES3
+    owners:
+      num_required_reviewers: 1
+      teams:
+        - Snapchat/dev-tools
+      patterns:
+        - '**.java'
+        - 'dir1/*.gradle'
