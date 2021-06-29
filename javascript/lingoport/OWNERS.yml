@@ -1,4 +1,5 @@
 --- !OWNERS
+
 version: 2
 default:
   jira_project: TES2
@@ -13,7 +14,8 @@ file_matchers:
     owners:
       num_required_reviewers: 1
       users:
-        - scott-post: always_required: true
+        - scott-post:
+            always_required: true
       teams:
         - Snapchat/tools-team
       patterns:
