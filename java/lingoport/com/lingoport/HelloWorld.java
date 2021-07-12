@@ -31,6 +31,6 @@ public class HelloWorld {
 		String logMessage = "Logging message - Don't translate me.";
 		logger.log(Level.INFO, logMessage);
 		
-		String test1 = "This change added to the file on 2021-06-28 to test Jenkins."
+		String test1 = "This change added to the file on 2021-07-12 to test Jenkins."
 	}
 }
